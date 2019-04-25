@@ -1,5 +1,4 @@
 #include <string.h>
-
 int main()
 {
         char* str = "Hello World\n";
